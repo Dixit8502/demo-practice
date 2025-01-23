@@ -1,2 +1,4 @@
 # demo-practice
-This is my firs repo
+This is my first repo.
+<br>
+Author: Dixit Kaneriya
